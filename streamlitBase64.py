@@ -131,7 +131,7 @@ st.info("Note: For images and PDFs, a preview will be displayed when possible. F
 # Footer with copyright notice
 st.markdown(
     "<div class='footer'>"
-    "Copyright © 2023 | Design & Developed by Code Proactive"
+    "Copyright © 2024 | Design & Developed by CodeProactive"
     "</div>",
     unsafe_allow_html=True
 )
