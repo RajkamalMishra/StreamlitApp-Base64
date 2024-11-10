@@ -58,7 +58,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Logo and Title
-st.image("codeproactiveLogo.png", width=100)  # Adjust the logo filename and size as needed
+st.image("codeproactiveLogo.jpg", width=200)  # Adjust the logo filename and size as needed
 st.title("🌈 Base64 Converter EasyTool")
 
 # Tabs for different conversion types
